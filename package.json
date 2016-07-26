@@ -1,0 +1,19 @@
+{
+  "name": "dl-toolbox",
+  "version": "1.0.0",
+  "description": "DL-TOOLBOX :: A repo of my most commonly used tools and frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlivingston/dl-toolbox.git"
+  },
+  "author": "Don Livingston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dlivingston/dl-toolbox/issues"
+  },
+  "homepage": "https://github.com/dlivingston/dl-toolbox#readme"
+}

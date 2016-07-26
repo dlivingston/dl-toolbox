@@ -1,0 +1,17 @@
+{
+  "name": "dl-toolbox",
+  "description": "DL-TOOLBOX :: A repo of my most commonly used tools and frameworks",
+  "main": "index.js",
+  "authors": [
+    "Don Livingston"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dlivingston/dl-toolbox",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
